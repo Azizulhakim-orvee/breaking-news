@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-import "./App.css";
+
 import News from "./Components/News/News";
 
 function App() {
